@@ -21,9 +21,9 @@ export default function App() {
                 </div>
                 <div id="right" className='lg:w-5/12 lg:text-xl  lg:flex  lg:justify-end lg:items-end ' >
                     <div className=' pt-10 w-fit h-fit'>
-                        <div className='border-t-2 py-3 w-80 px-5 flex justify-between border-black' ><p>Add to Cart</p><i className="ri-arrow-right-up-line"></i></div>
-                        <div className='border-t-2 py-3 w-80 px-5 border-black'>Product Details</div>
-                        <div className='border-t-2 py-3 w-80 px-5 border-black'>Shipping</div>
+                        <div className='border-t-2 py-3 w-80 max-w-[80%] px-5 flex justify-between border-black' ><p>Add to Cart</p><i className="ri-arrow-right-up-line"></i></div>
+                        <div className='border-t-2 py-3 w-80 max-w-[80%] px-5 border-black'>Product Details</div>
+                        <div className='border-t-2 py-3 w-80 max-w-[80%] px-5 border-black'>Shipping</div>
                     </div>
 
                 </div>
